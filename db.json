@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edith Potes ",
+      "email": "edithpotes1@gmail.com",
+      "telefono": "2337031",
+      "empresa": "Todo fresa",
+      "id": 1
+    },
+    {
+      "nombre": "Amelia macias ",
+      "email": "developersoftedithpotes@gmail.com",
+      "telefono": "3214788",
+      "empresa": "Cesde",
+      "id": 2
+    },
+    {
+      "nombre": "milena Rebolledo ",
+      "email": "milena@hotmail.com",
+      "telefono": "3214788",
+      "empresa": "Consorcio asteca ",
+      "id": 3
+    }
+  ]
+}
